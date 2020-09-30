@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=rapsealk&show_icons=true&hide_border=true)
+
+![](http://mazassumnida.wtf/api/mini/generate_badge?boj=sonagi623)
