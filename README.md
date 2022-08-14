@@ -10,5 +10,10 @@
 
 ### :octocat: Contributions
 - [**microsoft/AirSim**](https://github.com/microsoft/AirSim)
-  - PR [#1981](https://github.com/microsoft/AirSim/pull/1981) -- [c88ffafffa7b272fceb1728376660b2074852eac](https://github.com/microsoft/AirSim/commit/c88ffafffa7b272fceb1728376660b2074852eac)
+  - PR [#1981](https://github.com/microsoft/AirSim/pull/1981) - Add 'RpcLibPort' to change rpc port easily.
+- [**utilForever/RosettaStone**](https://github.com/utilForever/RosettaStone)
+  - PR [#477](https://github.com/utilForever/RosettaStone/pull/477) - Implement card 'Ragnaros the Firelord' (EX1_298)
 - [**lablup/backend.ai**](https://github.com/lablup/backend.ai)
+  #### Documentation & Maintenance
+  - [**mavlink/mavros**](https://github.com/mavlink/mavros): PR [#1112](https://github.com/mavlink/mavros/pull/1112), PR [#1260](https://github.com/mavlink/mavros/pull/1260)
+  - [**PX4/PX4-Devguide**](https://github.com/PX4/PX4-Devguide): PR [#718](https://github.com/PX4/PX4-Devguide/pull/718)
