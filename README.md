@@ -15,5 +15,6 @@
   - PR [#477](https://github.com/utilForever/RosettaStone/pull/477) - Implement card 'Ragnaros the Firelord' (EX1_298)
 - [**lablup/backend.ai**](https://github.com/lablup/backend.ai)
   #### Documentation & Maintenance
-  - [**mavlink/mavros**](https://github.com/mavlink/mavros): PR [#1112](https://github.com/mavlink/mavros/pull/1112), PR [#1260](https://github.com/mavlink/mavros/pull/1260)
-  - [**PX4/PX4-Devguide**](https://github.com/PX4/PX4-Devguide): PR [#718](https://github.com/PX4/PX4-Devguide/pull/718)
+  - [mavlink/mavros](https://github.com/mavlink/mavros) :: PR [#1112](https://github.com/mavlink/mavros/pull/1112) [#1260](https://github.com/mavlink/mavros/pull/1260)
+  - [PX4/PX4-Devguide](https://github.com/PX4/PX4-Devguide) :: PR [#718](https://github.com/PX4/PX4-Devguide/pull/718)
+  - [MicrosoftDocs/win32](https://github.com/MicrosoftDocs/win32) :: PR [#1069](https://github.com/MicrosoftDocs/win32/pull/1069)
