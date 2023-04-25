@@ -35,5 +35,8 @@
     <li>
       <a href="https://github.com/microsoft/DeepSpeed">microsoft/DeepSpeed</a> :: PR <a href="https://github.com/microsoft/DeepSpeed/pull/2564">#2564</a>
     </li>
+    <li>
+      <a href="https://github.com/TimDettmers/bitsandbytes">TimDettmers/bitsandbytes</a> :: PR <a href="https://github.com/TimDettmers/bitsandbytes/pull/260">#260</a>
+    </li>
   </ul>
 </details>
