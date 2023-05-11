@@ -38,5 +38,8 @@
     <li>
       <a href="https://github.com/TimDettmers/bitsandbytes">TimDettmers/bitsandbytes</a> :: PR <a href="https://github.com/TimDettmers/bitsandbytes/pull/260">#260</a>
     </li>
+    <li>
+      <a href="https://github.com/facebook/relay">facebook/relay</a> :: PR <a href="https://github.com/facebook/relay/pull/4281">#4281</a>(<a href="https://github.com/facebook/relay/commit/7e42ea1df78e1ec25e41e0c0a3bc627379f79e44">7e42ea1</a>)
+    </li>
   </ul>
 </details>
