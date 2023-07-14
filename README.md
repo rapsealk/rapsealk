@@ -33,7 +33,7 @@
       <a href="https://github.com/facebook/relay">facebook/relay</a> :: PR <a href="https://github.com/facebook/relay/pull/4281">#4281</a>
     </li>
     <li>
-      <a href="https://github.com/TimDettmers/bitsandbytes">TimDettmers/bitsandbytes</a> :: PR <a href="https://github.com/TimDettmers/bitsandbytes/pull/260">#260</a>
+      <a href="https://github.com/TimDettmers/bitsandbytes">TimDettmers/bitsandbytes</a> :: PR <a href="https://github.com/TimDettmers/bitsandbytes/pull/260">#260</a> <a href="https://github.com/TimDettmers/bitsandbytes/pull/375">#375</a>
     </li>
     <li>
       <a href="https://github.com/microsoft/DeepSpeed">microsoft/DeepSpeed</a> :: PR <a href="https://github.com/microsoft/DeepSpeed/pull/2564">#2564</a>
