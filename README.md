@@ -9,10 +9,8 @@
 * Mainly using **Python**
 
 ### :octocat: Contributions
-- [**microsoft/AirSim**](https://github.com/microsoft/AirSim)
-  - PR [#1981](https://github.com/microsoft/AirSim/pull/1981) - Add 'RpcLibPort' to change rpc port easily.
-- [**utilForever/RosettaStone**](https://github.com/utilForever/RosettaStone)
-  - PR [#477](https://github.com/utilForever/RosettaStone/pull/477) - Implement card 'Ragnaros the Firelord' (EX1_298)
+- [**TimDettmers/bitsandbytes**](https://github.com/TimDettmers/bitsandbytes) :: PR [#375](https://github.com/TimDettmers/bitsandbytes/pull/375)
+- [**microsoft/AirSim**](https://github.com/microsoft/AirSim) :: PR [#1981](https://github.com/microsoft/AirSim/pull/1981)
 - [**lablup/backend.ai**](https://github.com/lablup/backend.ai)
 
 <details>
@@ -20,6 +18,9 @@
     Documentation & Minor fixes
   </summary>
   <ul>
+    <li>
+      <a href="https://github.com/graphql-python/graphene-django">graphql-python/graphene-django</a> :: PR <a href="https://github.com/graphql-python/graphene-django/pull/1432">#1432</a>
+    </li>
     <li>
       <a href="https://github.com/gluesql/gluesql">gluesql/gluesql</a> :: PR <a href="https://github.com/gluesql/gluesql/pull/1253">#1253</a>
     </li>
@@ -33,7 +34,7 @@
       <a href="https://github.com/facebook/relay">facebook/relay</a> :: PR <a href="https://github.com/facebook/relay/pull/4281">#4281</a>
     </li>
     <li>
-      <a href="https://github.com/TimDettmers/bitsandbytes">TimDettmers/bitsandbytes</a> :: PR <a href="https://github.com/TimDettmers/bitsandbytes/pull/260">#260</a> <a href="https://github.com/TimDettmers/bitsandbytes/pull/375">#375</a>
+      <a href="https://github.com/TimDettmers/bitsandbytes">TimDettmers/bitsandbytes</a> :: PR <a href="https://github.com/TimDettmers/bitsandbytes/pull/260">#260</a>
     </li>
     <li>
       <a href="https://github.com/microsoft/DeepSpeed">microsoft/DeepSpeed</a> :: PR <a href="https://github.com/microsoft/DeepSpeed/pull/2564">#2564</a>
@@ -43,6 +44,9 @@
     </li>
     <li>
       <a href="https://github.com/MicrosoftDocs/win32">MicrosoftDocs/win32</a> :: PR <a href="https://github.com/MicrosoftDocs/win32/pull/1069">#1069</a>
+    </li>
+    <li>
+      <a href="https://github.com/utilForever/RosettaStone">utilForever/RosettaStone</a> :: PR <a href="https://github.com/utilForever/RosettaStone/pull/477">#477</a>
     </li>
     <li>
       <a href="https://github.com/PX4/PX4-Devguide">PX4/PX4-Devguide</a> :: PR <a href="https://github.com/PX4/PX4-Devguide/pull/718">#718</a>
