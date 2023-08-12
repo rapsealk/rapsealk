@@ -56,3 +56,11 @@
     </li>
   </ul>
 </details>
+
+<details>
+  <summary>Presentations</summary>
+  <ul>
+    <li><a href="https://2023.pycon.kr/session/2">PyCon KR 2023</a></li>
+    <li><a href="https://www.mns.mil.kr:463/mns/4562/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5zJTJGODQ1JTJGOTAxMSUyRmFydGNsVmlldy5kbyUzRnBhc3N3b3JkJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZiYnNDbFNlcSUzRDY4MiUyNnJnc0VuZGRlU3RyJTNEJTI2aXNWaWV3TWluZSUzRGZhbHNlJTI2cGFnZSUzRDElMjZiYnNPcGVuV3JkU2VxJTNEJTI2c3JjaENvbHVtbiUzRHNqJTI2c3JjaFdyZCUzRCUyNg%3D%3D">14th International Army Modeling & Simulation Education Conference (2021)</a></li>
+  </ul>
+</details>
