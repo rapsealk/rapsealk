@@ -49,6 +49,9 @@
       <a href="https://github.com/utilForever/RosettaStone">utilForever/RosettaStone</a> :: PR <a href="https://github.com/utilForever/RosettaStone/pull/477">#477</a>
     </li>
     <li>
+      <a href="https://github.com/tensorflow/docs-l10n">tensorflow/docs-l10n</a> :: PR <a href="https://github.com/tensorflow/docs-l10n/pull/290">#290</a>
+    </li>
+    <li>
       <a href="https://github.com/PX4/PX4-Devguide">PX4/PX4-Devguide</a> :: PR <a href="https://github.com/PX4/PX4-Devguide/pull/718">#718</a>
     </li>
     <li>
