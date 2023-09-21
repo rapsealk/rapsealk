@@ -19,6 +19,9 @@
   </summary>
   <ul>
     <li>
+      <a href="https://github.com/minio/minio-js">minio/minio-js</a> :: PR <a href="https://github.com/minio/minio-js/pull/1207">#1207</a>
+    </li>
+    <li>
       <a href="https://github.com/graphql-python/graphene-django">graphql-python/graphene-django</a> :: PR <a href="https://github.com/graphql-python/graphene-django/pull/1432">#1432</a>
     </li>
     <li>
