@@ -19,6 +19,9 @@
   </summary>
   <ul>
     <li>
+      <a href="https://github.com/xrutayisire/react-js-cron">xrutayisire/react-js-cron</a> :: PR <a href="https://github.com/xrutayisire/react-js-cron/pull/64">#64</a>
+    </li>
+    <li>
       <a href="https://github.com/minio/minio-js">minio/minio-js</a> :: PR <a href="https://github.com/minio/minio-js/pull/1207">#1207</a>
     </li>
     <li>
