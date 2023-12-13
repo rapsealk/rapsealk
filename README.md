@@ -10,7 +10,7 @@
 
 ### :octocat: Contributions
 - [**TimDettmers/bitsandbytes**](https://github.com/TimDettmers/bitsandbytes) :: PR [#375](https://github.com/TimDettmers/bitsandbytes/pull/375)
-- [**microsoft/AirSim**](https://github.com/microsoft/AirSim) :: PR [#1981](https://github.com/microsoft/AirSim/pull/1981)
+- [**microsoft/AirSim**](https://github.com/microsoft/AirSim) :: PR [#2185](https://github.com/microsoft/AirSim/pull/2185)
 - [**lablup/backend.ai**](https://github.com/lablup/backend.ai)
 
 <details>
@@ -18,6 +18,9 @@
     Documentation & Minor fixes
   </summary>
   <ul>
+    <li>
+      <a href="https://github.com/ant-design/ant-design">ant-design/ant-design</a> :: PR <a href="https://github.com/ant-design/ant-design/pull/46399">#46399</a>
+    </li>
     <li>
       <a href="https://github.com/xrutayisire/react-js-cron">xrutayisire/react-js-cron</a> :: PR <a href="https://github.com/xrutayisire/react-js-cron/pull/64">#64</a>
     </li>
