@@ -19,6 +19,9 @@
   </summary>
   <ul>
     <li>
+      <a href="https://github.com/strawberry-graphql/strawberry">strawberry-graphql/strawberry</a> :: PR <a href="https://github.com/strawberry-graphql/strawberry/pull/3586">#3586</a>
+    </li>
+    <li>
       <a href="https://github.com/moby/moby">moby/moby</a> :: PR <a href="https://github.com/moby/moby/pull/47075">#47075</a>
     </li>
     <li>
