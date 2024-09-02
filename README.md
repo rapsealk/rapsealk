@@ -19,6 +19,9 @@
   </summary>
   <ul>
     <li>
+      <a href="https://github.com/huggingface/transformers">huggingface/transformers</a> :: PR <a href="https://github.com/huggingface/transformers/pull/33230">#33230</a>
+    </li>
+    <li>
       <a href="https://github.com/Beomi/KoAlpaca">Beomi/KoAlpaca</a> :: PR <a href="https://github.com/Beomi/KoAlpaca/pull/111">#111</a>
     </li>
     <li>
