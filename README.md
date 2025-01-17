@@ -19,6 +19,9 @@
   </summary>
   <ul>
     <li>
+      <a href="https://github.com/melloware/react-logviewer">melloware/react-logviewer</a> :: PR <a href="https://github.com/melloware/react-logviewer/pull/79">#79</a>
+    </li>
+    <li>
       <a href="https://github.com/huggingface/transformers">huggingface/transformers</a> :: PR <a href="https://github.com/huggingface/transformers/pull/33230">#33230</a>
     </li>
     <li>
