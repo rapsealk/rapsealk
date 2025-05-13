@@ -19,6 +19,12 @@
   </summary>
   <ul>
     <li>
+      <a href="https://github.com/cookiecutter/cookiecutter-django">cookiecutter/cookiecutter-django</a> :: PR <a href="https://github.com/cookiecutter/cookiecutter-django/pull/5822">#5822</a>
+    </li>
+    <li>
+      <a href="https://github.com/devind-team/graphene-django-filter">devind-team/graphene-django-filter</a> :: PR <a href="https://github.com/devind-team/graphene-django-filter/pull/83">#83</a>
+    </li>
+    <li>
       <a href="https://github.com/melloware/react-logviewer">melloware/react-logviewer</a> :: PR <a href="https://github.com/melloware/react-logviewer/pull/79">#79</a>
     </li>
     <li>
