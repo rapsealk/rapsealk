@@ -19,6 +19,9 @@
   </summary>
   <ul>
     <li>
+      <a href="https://github.com/apache/airflow">apache/airflow</a> :: PR <a href="https://github.com/apache/airflow/pull/51042">#51042</a>
+    </li>
+    <li>
       <a href="https://github.com/cookiecutter/cookiecutter-django">cookiecutter/cookiecutter-django</a> :: PR <a href="https://github.com/cookiecutter/cookiecutter-django/pull/5822">#5822</a>
     </li>
     <li>
