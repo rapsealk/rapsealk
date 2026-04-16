@@ -46,7 +46,7 @@
       <a href="https://github.com/moby/moby">moby/moby</a> :: PR <a href="https://github.com/moby/moby/pull/47075">#47075</a>
     </li>
     <li>
-      <a href="https://github.com/ant-design/ant-design">ant-design/ant-design</a> :: PR <a href="https://github.com/ant-design/ant-design/pull/46399">#46399</a>
+      <a href="https://github.com/ant-design/ant-design">ant-design/ant-design</a> :: PR <a href="https://github.com/ant-design/ant-design/pull/46399">#46399</a> <a href="https://github.com/ant-design/ant-design/pull/55672">#55672</a>
     </li>
     <li>
       <a href="https://github.com/xrutayisire/react-js-cron">xrutayisire/react-js-cron</a> :: PR <a href="https://github.com/xrutayisire/react-js-cron/pull/64">#64</a>
