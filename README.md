@@ -1,9 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0096c7,25:0077b6,50:00b4d8,75:90e0ef,100:caf0f8&text=Jeongseok%20Kang&fontAlign=25&fontAlignY=32&height=150&fontSize=50&fontColor=ffffff)
+### **Jeongseok Kang (rapsealk)**
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/정석-강-329273122)](https://www.linkedin.com/in/정석-강-329273122)
 [![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://rapsealk.github.io)](https://rapsealk.github.io)	
 [![Email Badge](https://img.shields.io/badge/mailto:piono623@naver.com-2DB400?style=flat-square&logoColor=white&link=mailto:piono623@naver.com)](mailto:piono623@naver.com)
 [![BOJ](http://mazassumnida.wtf/api/mini/generate_badge?boj=sonagi623)](https://solved.ac/sonagi623)
-
+[![Google Scholar Badge](https://img.shields.io/badge/-Scholar-4285f4?style=flat&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?hl=en&user=AkeZFYwAAAAJ)](https://scholar.google.com/citations?hl=en&user=AkeZFYwAAAAJ)
 
 * Working as a **Software Engineer**
 * Mainly using **Python**
@@ -104,5 +105,4 @@
   <ul>
     <li><a href="https://2023.pycon.kr/session/2">PyCon KR 2023</a></li>
     <li><a href="https://www.mns.mil.kr:463/mns/4562/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5zJTJGODQ1JTJGOTAxMSUyRmFydGNsVmlldy5kbyUzRnBhc3N3b3JkJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZiYnNDbFNlcSUzRDY4MiUyNnJnc0VuZGRlU3RyJTNEJTI2aXNWaWV3TWluZSUzRGZhbHNlJTI2cGFnZSUzRDElMjZiYnNPcGVuV3JkU2VxJTNEJTI2c3JjaENvbHVtbiUzRHNqJTI2c3JjaFdyZCUzRCUyNg%3D%3D">14th International Army Modeling & Simulation Education Conference (2021)</a></li>
-  </ul>
 </details>
