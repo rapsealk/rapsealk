@@ -20,6 +20,9 @@
   </summary>
   <ul>
     <li>
+      <a href="https://github.com/NousResearch/hermes-agent">NousResearch/hermes-agent</a> :: PR <a href="https://github.com/NousResearch/hermes-agent/pull/67843">#67843</a>
+    </li>
+    <li>
       <a href="https://github.com/open-edge-platform/anomalib">open-edge-platform/anomalib</a> :: PR <a href="https://github.com/open-edge-platform/anomalib/pull/3138">#3138</a>
     </li>
     <li>
