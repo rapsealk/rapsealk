@@ -20,6 +20,9 @@
   </summary>
   <ul>
     <li>
+      <a href="https://github.com/opencats/OpenCATS">opencats/OpenCATS</a> :: PR <a href="https://github.com/opencats/OpenCATS/pull/876">#876</a>
+    </li>
+    <li>
       <a href="https://github.com/facebook/astryx">facebook/astryx</a> :: PR <a href="https://github.com/facebook/astryx/pull/7227">#7227</a>
     </li>
     <li>
