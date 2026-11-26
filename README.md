@@ -39,7 +39,7 @@
       <a href="https://github.com/google/flax/pull/5024">google/flax</a> :: PR <a href="https://github.com/google/flax/pull/5024">#5024</a>
     </li>
     <li>
-      <a href="https://github.com/apache/airflow">apache/airflow</a> :: PR <a href="https://github.com/apache/airflow/pull/51042">#51042</a> <a href="https://github.com/apache/airflow/pull/51497">#51497</a>
+      <a href="https://github.com/apache/airflow">apache/airflow</a> :: PR <a href="https://github.com/apache/airflow/pull/51042">#51042</a> <a href="https://github.com/apache/airflow/pull/51497">#51497</a> <a href="https://github.com/apache/airflow/pull/66269">#66269</a>
     </li>
     <li>
       <a href="https://github.com/cookiecutter/cookiecutter-django">cookiecutter/cookiecutter-django</a> :: PR <a href="https://github.com/cookiecutter/cookiecutter-django/pull/5822">#5822</a>
