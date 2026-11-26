@@ -11,6 +11,7 @@
 
 ### :octocat: Contributions
 - [**TimDettmers/bitsandbytes**](https://github.com/TimDettmers/bitsandbytes) :: PR [#375](https://github.com/TimDettmers/bitsandbytes/pull/375)
+- [**valkey-io/valkey-glide**](https://github.com/valkey-io/valkey-glide) :: PR [#7588](https://github.com/valkey-io/valkey-glide/pull/7588)
 - [**microsoft/AirSim**](https://github.com/microsoft/AirSim) :: PR [#2185](https://github.com/microsoft/AirSim/pull/2185)
 - [**lablup/backend.ai**](https://github.com/lablup/backend.ai)
 
